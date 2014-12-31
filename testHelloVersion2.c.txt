@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+  printf("Hello World C\n");
+getch();
+return 0;
+
+}
